@@ -1,5 +1,8 @@
 _repo: Our-Humble-Helpers-Familiar-Talks-on-the-Domestic-Animals_67073
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Fabre, Jean-Henri
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/735
     wikipedia: https://en.wikipedia.org/wiki/Jean_Henri_Fabre
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67073#Our-Humble-Helpers-Familiar-Talks-on-the-Domestic-Animals
 gutenberg_issued: '2022-01-03'
 identifiers:
   gutenberg: '67073'
